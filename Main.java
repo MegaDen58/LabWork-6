@@ -3,8 +3,6 @@ import java.util.Scanner;
 
 
 class XYZ{
-    double x;
-    double y;
 
     void Sum(double x, double y){
         double z;
